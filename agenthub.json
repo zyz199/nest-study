@@ -1,0 +1,10 @@
+{
+  "appid": "appid",
+  "secret": "secret",
+  "error_log": [
+    "/Users/hermit/Desktop/mycode/node/nest-study-pro/nest-study/logs/errors/error.20230202.log"
+  ],
+  "packages": [
+    "/Users/hermit/Desktop/mycode/node/nest-study-pro/nest-study/package.json"
+  ]
+}
